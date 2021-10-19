@@ -6,6 +6,7 @@
     justify-content:space-between;
     border: 2px solid green;
     margin-inline: 5px;
+    padding: 3px;
 
 }
 
@@ -26,6 +27,7 @@
     background: blueviolet;
     display: flex;
     align-items: baseline;
+    padding: 2px;
 
 
 }
