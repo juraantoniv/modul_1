@@ -1,0 +1,119 @@
+.main{
+
+    background: wheat;
+    width: 300px;
+    height: 700px;
+    border: 2px solid darkslategray;
+    display: block;
+    margin: 0;
+}
+.one{
+    background: wheat;
+    width: 99%;
+    height: 98px;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    margin: 0;
+
+}
+.two{
+
+    background: wheat;
+    width: 99%;
+    height: 596px;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+
+}
+.one1{
+    background: wheat;
+    width: 18%;
+    height: 98%;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    margin: 0;
+
+
+}
+
+.one2{
+
+    background: wheat;
+    width: 80%;
+    height: 98%;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    display: block;
+    margin: 0;
+
+}
+
+.one3{
+    background: wheat;
+    width: 99%;
+    height: 25%;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    margin: 0;
+
+}
+
+.one4{
+    background: wheat;
+    width: 99%;
+    height: 10%;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    margin: 0;
+
+
+}
+
+.one5{
+    background: wheat;
+    width: 99%;
+    height: 50%;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    display: flex;
+    margin: 0;
+
+
+}
+
+.one6{
+    background: wheat;
+    width: 99%;
+    height: 12%;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    margin: 0;
+
+
+}
+
+.one7{
+    background: wheat;
+    width: 75%;
+    height: 99%;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    margin: 0;
+
+
+}
+
+
+.one8{
+    background: wheat;
+    width: 20%;
+    height: 99%;
+    border: 1px solid darkslategray;
+    padding: 1px;
+    margin: 0;
+
+
+}
