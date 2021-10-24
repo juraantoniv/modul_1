@@ -1,8 +1,12 @@
+*{
+
+    box-sizing: border-box;
+}
+
 .border{
 
 
     background:white;
-    box-sizing: border-box;
     padding: 5px;
     height: 700px;
     width: 400px;
@@ -38,7 +42,6 @@
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    box-sizing: border-box;
 
 }
 
@@ -49,32 +52,19 @@
     border: 3px solid white;
     background: blue;
     margin: 1px;
+    justify-content: stretch;
+    align-items: stretch;
 
 
 }
-.inside{
+.inside,.inside2,.inside1{
 
     width: 34%;
-    height: 100%;
     background: darkblue;
-    box-sizing: border-box;
     border: 10px solid white;
+    height: 100%;
 }
 
 .inside1{
-
     width: 31%;
-    height: 100%;
-    background: darkblue;
-    box-sizing: border-box;
-    border: 10px solid white;
-
-}
-.inside2{
-
-    width: 34%;
-    height: 100%;
-    background: darkblue;
-    box-sizing: border-box;
-    border: 10px solid white;
 }
