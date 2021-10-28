@@ -1,0 +1,91 @@
+:root{
+    --blul2: #0029cc;
+    --aqua: #00c5cc
+}
+
+*{
+
+    padding: 0;
+    margin: 0;
+}
+.top_header{
+    background:blue;
+    height: 150px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.top_header1{
+    height: 80px;
+    width: 130px;
+    background: darkblue;
+    border-radius: 10px;
+    margin-left: 70px;
+
+
+
+}
+
+.top_header2{
+    height: 80px;
+    width: 130px;
+    border-radius: 10px;
+    margin-right: 90px;
+
+
+}
+
+.header2 {
+    text-align: center;
+    width: 1000px;
+    height:400px ;
+    background: #0029cc;
+    padding: 80px;
+    box-sizing: border-box;
+    row-gap: 50px;
+
+
+}
+.text{
+
+    width: 80%;
+    line-height: 20px;
+    text-align: center;
+}
+.header2 button{
+    margin-top: 30px;
+    background: blueviolet;
+    width: 300px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+}
+.UL_LI{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+.Main{
+    height: 200px;
+      width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:blue;
+  }
+.clas1, .clas2,.clas3{
+    background: navy;
+    height: 150px;
+    width: 150px;
+    justify-content: center;
+    margin-top: -200px;
+    border-radius: 20px;
+    margin-right: 30px;
+}
