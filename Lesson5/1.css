@@ -38,21 +38,27 @@
 }
 
 .header2 {
-    text-align: center;
+   display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     width: 1000px;
     height:400px ;
     background: #0029cc;
-    padding: 80px;
-    box-sizing: border-box;
-    row-gap: 50px;
 
+
+
+}
+.text1{
+    width: 80%;
+    text-align: center;
 
 }
 .text{
 
     width: 80%;
     line-height: 20px;
-    text-align: center;
+text-align: center;
 }
 .header2 button{
     margin-top: 30px;
@@ -73,7 +79,7 @@
 
 }
 .Main{
-    height: 200px;
+    height: 100px;
       width: 1000px;
     display: flex;
     justify-content: center;
@@ -82,10 +88,171 @@
   }
 .clas1, .clas2,.clas3{
     background: navy;
-    height: 150px;
+    height: 100px;
     width: 150px;
     justify-content: center;
-    margin-top: -200px;
+    margin-top: -100px;
     border-radius: 20px;
     margin-right: 30px;
+}
+.Main2{
+    height: 50px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    align-items: center;
+    background:blue;
+    border: none;
+    font-weight:bolder;
+}
+.Main3{
+    height: 150px;
+    width: 1000px;
+    display: flex;
+   justify-content: center;
+    column-gap: 20px;
+    align-items: baseline;
+    padding-top: 10px;
+    background:blue;
+
+}
+.f1{
+
+    width: 150px;
+    height: 120px;
+    background: navy;
+    border-radius: 20px;
+
+}
+.Main_text{
+
+    width: 1000px;
+    height: 50px;
+    background:blue;
+    display: flex;
+    column-gap: 60px;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px 50px;
+    box-sizing: border-box;
+}
+
+.New2{
+    height: 150px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    align-items: baseline;
+    padding-top: 10px;
+    background:blue;
+
+}
+.f1{
+
+    width: 150px;
+    height: 120px;
+    background: navy;
+    border-radius: 20px;
+
+}
+.Main_text_1{
+
+    width: 1000px;
+    height: 50px;
+    background:blue;
+    display: flex;
+    column-gap: 60px;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px 50px;
+    box-sizing: border-box;
+    font-weight: bolder;
+}
+.Main_text{
+    background:blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    padding-top: 40px;
+}
+.Colum{
+   height: 200px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 30px;
+    background: blue;
+
+}
+.Colum1{
+
+    width: 350px;
+    height: 180px;
+    background: navy;
+    border-radius: 20px;
+
+}
+.Main_text_2{
+    background: blue;
+    height:50px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 200px;
+}
+.Last_one{
+    height: 250px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    column-gap: 30px;
+    background: blue;
+    padding-left: 60px;
+    box-sizing: border-box;
+
+}
+.g1{
+    height: 180px;
+    width: 180px;
+    background: navy;
+    border-radius: 90px;
+
+}
+.g2{
+    height: 180px;
+    width: 700px;
+    padding-left: 30px;
+    padding-top: 30px;
+    line-height: 25px;
+}
+.g4{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    background: navy;
+}
+.Last_two{
+    background: blue;
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+.Thelast{
+    background: blue;
+    height: 50px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
 }
