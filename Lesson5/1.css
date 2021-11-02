@@ -256,3 +256,10 @@ text-align: center;
     align-items: center;
     column-gap: 20px;
 }
+.naw_button{
+    width: 50px;
+    height: 60px;
+    border-radius: 10px;
+    background: red;
+    padding-right: 50px;
+}
