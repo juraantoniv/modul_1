@@ -1,0 +1,47 @@
+@media screen and (max-width: 400px) {
+    .Colum {
+        flex-direction: row;
+        row-gap: 20px;
+
+    }
+
+    .Main {
+        display: none;
+
+
+    }
+
+    .Main2, .Main3, .New2 {
+        flex-direction: row;
+        row-gap: 20px;
+        justify-content: center;
+        align-items: center;
+        column-gap: 30px;
+    }
+
+.top_header{
+
+    justify-content: center;
+    align-items: center;
+}
+    .header2 button{
+        margin-top: 30px;
+        background: blueviolet;
+        width: 100px;
+        height: 30px;
+        border-radius: 30px;
+        border: none;
+}
+    .text1{
+        width: 50%;
+        text-align: center;
+
+    }
+    .text{
+
+        width: 50%;
+        line-height: 20px;
+        text-align: center;
+    }
+}
+    
