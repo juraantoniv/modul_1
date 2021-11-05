@@ -1,0 +1,38 @@
+.header {
+    height: 100vh;
+    background: url("hero image.png") no-repeat center/cover;
+}
+.nav_i{
+    width: 20px;
+}
+.wraper{
+
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.htop{
+
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav{
+
+    display: flex;
+    column-gap: 23px;
+    justify-content: center;
+
+}
+.nav_i a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
