@@ -122,3 +122,36 @@ padding-left: 150px;
     cursor: pointer;
     margin-left: 70px;
 }
+
+.top1{
+    position: absolute;
+    width: 349px;
+    height: 328px;
+    left: 166px;
+    top: 693px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.top2{
+    position: absolute;
+    width: 349px;
+    height: 328px;
+    left: 546px;
+    top: 693px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.top3{
+    position: absolute;
+    width: 349px;
+    height: 328px;
+    left: 926px;
+    top: 693px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
